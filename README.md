@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @nairrekhabr
-- 👀 I’m interested in machine learning...
-- 🌱 I’m currently learning Introduction to finance...
-- 💞️ I’m looking to collaborate on group study on various topics of interest...
-- 📫 How to reach me @slack...
+- 👋 Hi, I’m Rekha B Ramachandran
+- 👀 I’m interested in machine learning to find prospective business outcomes
+- 🌱 I’m currently learning with Rutger University's FinTech Bootcamp
+- 💞️ I’m looking to collaborate on group study on various topics of interest machine&Deep learning,Visualization, AWS-Lex & NLP 
+- 📫 How to reach me @slack Rekha Br
 
 <!---
 nairrekhabr/nairrekhabr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
