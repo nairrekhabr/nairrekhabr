@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rekha B Ramachandran
 - 👀 I’m interested in machine learning to find prospective business outcomes
-- 🌱 I’m currently learning with Rutger University's FinTech Bootcamp
+- 🌱 Recently received my FinTech Certificate from Rutger University's FinTech Bootcamp
 - 💞️ I’m looking to collaborate on various topics of interest machine learning,Visualization, AWS-Lex & NLP, Blockchain, Solidity. 
 - 📫 How to reach me @ nairrekhabr@gmail.com
 
